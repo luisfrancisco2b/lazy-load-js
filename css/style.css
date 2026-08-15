@@ -8,10 +8,25 @@
 
 body {
   background-color: #333;
+  height: 100vh;
 }
 
 .title {
   font-size: 2rem;
   padding: 2rem;
   text-align: center;
+  color: #fff;
+  background-color: #222;
+}
+
+/* Images Container */
+.container {
+  width: 70vw;
+  margin: 0 auto;
+}
+
+.img-container {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #444;
 }
