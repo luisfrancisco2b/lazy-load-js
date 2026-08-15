@@ -39,10 +39,9 @@ body {
 }
 
 .img-container p {
-  color: #fff;
+  color: #05b5fa;
   text-align: center;
   font-weight: bold;
   font-size: 1.2rem;
   text-transform: uppercase;
-  letter-spacing: 1.2px;
 }
